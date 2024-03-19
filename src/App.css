@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  /* background-color: black; */
+}
+
+div {
+  width: 1768px;
+  height: 143px;
+  border: solid blue 2px;
+}
+
+section > img {
+  height: 100px;
+  margin-: 50px;
+}
